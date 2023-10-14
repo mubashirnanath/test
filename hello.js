@@ -1,1 +1,1 @@
-console.log("hi kutta");
+console.log("Hey, Itz Mubu Mubz");
